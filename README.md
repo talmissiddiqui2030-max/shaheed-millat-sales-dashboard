@@ -1,4 +1,5 @@
-## 📍 Shaheed-e-Millat Department Dashboard (Dec 1–6)
+## 📍 Shaheed-e-Millat Department Dashboard 
+
 
 This Power BI dashboard analyzes retail sales performance for the Shaheed-e-Millat department over a 6-day period.  
 It highlights key metrics, top-performing products, category-level insights, and hourly sales trends.
